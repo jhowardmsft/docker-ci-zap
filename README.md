@@ -1,4 +1,5 @@
 
-run file:
+Usage
 
-.\docker-ci-zap.exe -folder "C:\ProgramData\docker"
+- Stop the Docker daemon
+- run file: `.\docker-ci-zap.exe -folder "C:\ProgramData\docker"`
